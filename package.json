@@ -2,7 +2,7 @@
   "name": "qr-code-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ryan-Wez.github.io/qr-code",
+  "homepage": "https://RyanWez.github.io/QR-Code",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
